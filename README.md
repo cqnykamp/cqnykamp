@@ -3,10 +3,10 @@
 **Aspiring developer** with experience in **edtech**<br/>
 Currently intern at [Doenet](https://www.doenet.org/), a project of the University of Minnesota
 
-- ⚙️ I use daily: `.ts`, `.js`, `.jsx`, `.css`, `.html`
+- ⚙️ I use regularly: `.ts`, `.js`, `.jsx`, `.css`, `.html`
 - ✨ Favorite personal project: `C++`/`OpenGL` [game I made](https://github.com/cqnykamp/reflection-game) about mathematical reflections
 - 🌍 Contributed many features to doenet.org over the years
-- 💬 `ping` me about **API design**, **React**, **education**, and of course... **jobs**! 😉
+- 💬 `ping` me about **API design**, **React**, and **education**
 
 <!--
 **cqnykamp/cqnykamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
