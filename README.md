@@ -1,10 +1,10 @@
-## Hi there, I'm Charles 👋
+## Hello there👋
 
-Aspiring/Hobbyist **Full-Stack Developer** with experience in **edtech**<br/>
-Full-Stack Development Intern at [Doenet](https://www.doenet.org/) (University of Minnesota)
+**Aspiring developer** with experience in **edtech**<br/>
+Currently intern at [Doenet](https://www.doenet.org/), a project of the University of Minnesota
 
 - ⚙️ I use daily: `.ts`, `.js`, `.jsx`, `.css`, `.html`
-- ✨ My favorite personal project is a [math-based game I made](https://github.com/cqnykamp/reflection-game) exploring 2D reflections (`C++`, `OpenGL`)
+- ✨ Favorite personal project: `C++`/`OpenGL` [game I made](https://github.com/cqnykamp/reflection-game) about mathematical reflections
 - 🌍 Contributed many features to doenet.org over the years
 - 💬 `ping` me about **API design**, **React**, **education**, and of course... **jobs**! 😉
 
