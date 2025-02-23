@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Aspiring/Hobbyist Full-Stack Developer with experience in edtech
+
 Full-Stack Development Intern at [Doenet](https://www.doenet.org/) (University of Minnesota)
 
 - ⚙️ I use daily: .ts, .js, .jsx, .css, .html
