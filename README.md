@@ -1,7 +1,7 @@
 ## Hello there👋
 
 **Aspiring developer** with experience in **edtech**<br/>
-Currently intern at [Doenet](https://www.doenet.org/), a project of the University of Minnesota
+Currently software developer at [Doenet](https://www.doenet.org/), a project of the University of Minnesota
 
 - ⚙️ I use regularly: `.ts`, `.js`, `.jsx`, `.css`, `.html`
 - ✨ Favorite personal project: `C++`/`OpenGL` [game I made](https://github.com/cqnykamp/reflection-game) about mathematical reflections
